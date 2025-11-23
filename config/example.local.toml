@@ -1,0 +1,6 @@
+[telegram]
+token = "your_telegram_bot_token"
+maintainer_id = 69696969424242
+
+[database]
+url = "postgres://postgres:postgres@localhost:5432/domovenok"
